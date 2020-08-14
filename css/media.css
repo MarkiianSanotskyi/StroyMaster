@@ -1,0 +1,145 @@
+@media (min-width: 1200px){
+	#our-advantages{background-position: top center;}
+ul.total-navigation-list li {
+
+    margin-right: 34px;
+}
+ul.total-navigation-list li a{font-size:18px;}
+.top-get-advice span{font-size:24px;}
+/* NAVIGATION */
+ul.nav li a{font-size:16px;}
+.services-title p{font-size:17px;}
+ul.offers-list span { font-size: 17px;}
+.cleaning-box {
+    font-size: 23px;}
+ul.nav li a{padding-left:30px;padding-right:30px;}
+.nav.navbar-nav .caret {
+
+  
+  
+}
+.header-bottom {
+
+    margin: 0px auto 0px 0px;
+       padding: 19px 15px 25px 15px;
+    width: 1120px;
+}
+.order-consultation input[type="tel"],
+.order-consultation input[type="text"] {
+
+    width: 460px;
+
+}
+.header-title a.price-list {
+    width: 200px;
+ 
+}
+.description-work-box h3 {
+    font-size: 38px;
+    
+}
+.description-work-box p {
+    font-size: 17px;
+  
+}
+.why-need-box h5 {
+    font-size: 38px;
+   
+}
+.why-need-box p {
+    font-size: 17px;
+
+}
+.our-document-box {
+    width: 1000px;
+
+}
+.our-document-text {
+  
+    width: 762px;
+  
+}
+.our-document-text h5 {
+    font-size: 24px;
+   
+}
+.our-document-text p {
+    font-size: 17px;
+   
+}
+/*ARTICLE-PAGE*/
+
+
+
+ul.categories-box-list .categories-box-article {width: 470px;}
+#categories-total .faq-box {width: 300px;}
+ul.nav li:last-child{width:13.293%;}
+/*CONTACTS*/
+.contacts-box h5{font-size:24px;}
+ul.contacts-info-list li{font-size:17px;}
+ul.contacts-info-list li span a{font-size:17px;}
+.contacts-box a.button{font-size:18px;}
+.contacts-box .contact-address{font-size:17px;}
+.contact-cooperation{font-size:17px;}
+.contact-cooperation span a{font-size:17px;}
+.contact-description{font-size:17px;}
+ul.contacts-info-list li span {
+    width: 500px;
+}
+.contacts-box.contact-contributory {
+    padding-bottom: 31px;
+}
+  ul.photogalery-list li .image-box{width:300px;height:210px;}
+   ul.photogalery-list li{width:300px;}
+   ul.photogalery-list{width:655px;}
+   .photogalery .photogalery-title {
+
+    padding-left: 50px;
+}
+ul.photogalery-list .caption-services {
+   
+    margin-left: -143px;
+}
+.photogalery.second ul.photogalery-list li{height:275px;}
+#header.page-inner .navbar.navbar-top {
+       max-width: 1142px;
+}
+.photogalery.third .photogalery-list li{width:366px;}
+
+.photogalery.third .photogalery-list li .image-box{height:256px;width:100%;}
+.header-content{position:absolute;top:0px;left:50%;margin-left:-580px;}
+ul.services-list li .image-box,
+.article-page.price-page ul.services-list .image-box {
+ 
+    width: 290px;
+    height: 202px;
+  
+}
+ul.services-list,
+.article-page.price-page ul.services-list {
+    width: 964px;
+    
+}
+
+ul.services-list li,
+.article-page.price-page ul.services-list li {
+
+    width: 290px;
+}
+.caption-services {
+
+    margin-left: -142px;
+
+}
+
+}
+
+
+	@media (max-width: 766px){
+#categories-total{margin-top: -17px;}
+
+		}
+@media (max-width: 400px){
+
+#categories-total{height:100vh !important;}
+		}
